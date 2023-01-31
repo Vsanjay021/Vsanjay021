@@ -48,6 +48,6 @@
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="www.linkedin.com/in/sanjay-v-36aa761b1"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha%20V-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:vsanjay8722@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shwe08711@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:vsanjay8722@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vsanjay8722@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </p>
