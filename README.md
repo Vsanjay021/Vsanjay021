@@ -45,7 +45,7 @@
 <p align="center" width="100%" margin="auto">
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sanjay-v-36aa761b1/"><img alt="https://img.shields.io/badge/LinkedIn-Sanjay%20V-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/sanjay-v-36aa761b1/"><img src="https://img.shields.io/badge/LinkedIn-Sanjay%20V-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vsanjay8722@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vsanjay8722@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 </p>
