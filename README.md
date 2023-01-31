@@ -1,6 +1,6 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sanjay V.</h2>
 <p align="center">
-<img align="center" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif" alt="Sanjay V"  height="250px" />
+<img align="center" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif" width="100%" alt="Sanjay V"  height="250px" />
  </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
