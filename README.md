@@ -18,3 +18,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" /></p>
+<p align="center" width="100%" margin="auto">
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/swetha-v-23297b194/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha%20V-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:shwe08711@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shwe08711@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+</p>
