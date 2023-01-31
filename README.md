@@ -1,6 +1,6 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sanjay V.</h2>
 <p align="center">
-<img align="center" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" alt="Sanjay V" width="250px" height="250px" />
+<img align="center" src="[https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)" alt="Sanjay V" width="250px" height="250px" />
  </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
