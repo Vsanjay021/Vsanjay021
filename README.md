@@ -32,16 +32,16 @@
 
 <p align="center">
     <a href="https://github.com/swethav08711/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swethav08711&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vsanjay021&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <br/>
  <p align="center">
-    <a href="https://github.com/swethav08711/github-readme-stats"><img alt="swetha v's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swethav08711&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/swethav08711/github-readme-stats"><img alt="swetha v's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vsanjay021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethav08711&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsanjay021&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
 <br/>
 <p align="center" width="100%" margin="auto">
