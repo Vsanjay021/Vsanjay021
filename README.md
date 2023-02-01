@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Web Development.
+- 🎓 &nbsp; Studying Node js backend development.
 - 📫 &nbsp; How to reach me **vsanjay8722@gmail.com**
 - 🌱 &nbsp; Learning new things and contribute more.
  <br/>
