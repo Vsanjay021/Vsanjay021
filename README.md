@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💬 Ask me about **JavaScript, Express, Node, HTML, CSS**
+- 💬  Ask me about **JavaScript, Express, Node, HTML, CSS**
 - 🎓 &nbsp; Studying Node js backend development.
 - 🌱 &nbsp; Learning new things and contribute more.
-- 👨‍💻 All of my projects are available at [https://Vsanjay021.github.io/](https://Vsanjay021.github.io/)
+- 👨‍💻  All of my projects are available at [https://Vsanjay021.github.io/](https://Vsanjay021.github.io/)
  <br/>
  
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
