@@ -38,7 +38,7 @@
 
 <br/>
  <p align="center">
-    <a href="https://github.com/swethav08711/github-readme-stats"><img alt="swetha v's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vsanjay021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Vsanjay021/github-readme-stats"><img alt="sanjay v's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vsanjay021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsanjay021&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
