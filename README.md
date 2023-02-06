@@ -38,9 +38,8 @@
 
 <br/>
  <p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" />
     </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsanjay021&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
