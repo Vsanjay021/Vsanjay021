@@ -31,9 +31,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Vsanjay021/github-readme-streak-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" />
-    </a>
+   <a href="https://github.com/Vsanjay021/github-readme-stats"><img alt="Sanjay v's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vsanjay021&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <br/>
