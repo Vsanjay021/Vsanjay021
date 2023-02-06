@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://github.com/Vsanjay021/github-readme-streak-stats">
-     <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" />
     </a>
 </p>
 
