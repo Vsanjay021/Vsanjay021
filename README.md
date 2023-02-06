@@ -49,7 +49,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sanjay-v-36aa761b1/"><img src="https://img.shields.io/badge/LinkedIn-Sanjay%20V-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://vsanjay021.github.io/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=Portfolio"></a>
-<img alt="Email" src="https://img.shields.io/badge/Email-vsanjay8722@gmail.com-blue?style=flat-square&logo=gmail">
  
 </p>
 </p>
