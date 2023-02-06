@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://github.com/Vsanjay021/github-readme-streak-stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" />
     </a>
 </p>
 
