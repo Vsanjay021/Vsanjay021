@@ -52,3 +52,5 @@
  <img alt="Email" src="https://img.shields.io/badge/Email-vsanjay8722@gmail.com-blue?style=flat-square&logo=gmail">
 </p>
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" />
