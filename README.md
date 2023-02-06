@@ -8,7 +8,6 @@
 - 💬 Ask me about **JavaScript, Express, Node, HTML, CSS**
 - 🎓 &nbsp; Studying Node js backend development.
 - 🌱 &nbsp; Learning new things and contribute more.
-- 👨‍💻 All of my projects are available at [https://Vsanjay021.github.io/](https://Vsanjay021.github.io/)
  <br/>
  
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
@@ -39,7 +38,6 @@
 
 <br/>
  <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsanjay021&" alt="vsanjay021" />
     </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsanjay021&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
