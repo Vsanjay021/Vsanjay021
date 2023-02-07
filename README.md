@@ -30,9 +30,6 @@
  
 <br/>
 
-<p align="center">
-   <a href="https://github.com/Vsanjay021/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vsanjay021&show_icons=true&locale=en" alt="vsanjay021" /></a>
-</p>
 
 <br/>
  <p align="center">
