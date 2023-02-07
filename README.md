@@ -40,9 +40,7 @@
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vsanjay021&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsanjay021&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
-    </p>
+
 <br/>
 <p align="center" width="100%" margin="auto">
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
